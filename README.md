@@ -58,7 +58,7 @@
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
-    bg_color=#808080 width="400" height="300" />
+    bg_color=#808080 width="300" height="200" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
