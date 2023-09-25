@@ -1,47 +1,45 @@
-# This is a basic workflow to help you get started with Actions
+name: Update GitHub Contribution Snake
 
-name: CI
-
-# Controls when the workflow will run
 on:
-
   schedule:
-    - cron: "0 */12 * * *" 
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    - cron: "0 0 * * *"
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate GitHub Contribution Snake
+        run: npm run generate:snake
+
+      - name: Configure Git
+        run: |
+          git config --global user.mqtias1812 "GitHub Actions"
+          git config --global user.matias.torres@gmail.com "actions@github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Update GitHub Contribution Snake [skip ci]"
+          git push
+
+      - name: Update README.md
+        run: |
+          echo "![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/${{ github.repository_owner }}/repository/output/github-contribution-grid-snake.svg)" > README.md
+
+      - name: Commit and push README changes
+        run: |
+          git add README.md
+          git commit -m "Update README.md [skip ci]"
+          git push
