@@ -10,9 +10,13 @@
 
 <div align="left">
  
- 🔭 Actualmente estoy trabajando en **un contrato de formacion** con No Country.
+ 🔭 Actualmente estoy trabajando en
+ <br/>
+  **un contrato de formacion** con No Country.
  
- 🌱 Actualmente estoy aprendiendo **Astro, Typescript, Supabase y Tailwind**.
+ 🌱 Actualmente estoy aprendiendo 
+  <br/>
+ **Astro, Typescript, Supabase y Tailwind**.
 
  💬 Estoy abierto a **cualquier oferta laboral**.
 
