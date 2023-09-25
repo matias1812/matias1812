@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+me+precento!+👋;+Soy+Matias+Torres!+👨🏽‍💻;" />
 </h1>
 
-<h3 align="center">Soy un apasionado Front-end Developer</h3>
+<h3 align="center">Soy un apasionado Front-end Developer.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **un contrato de formacion** con No Country
+ 🔭 Actualmente estoy trabajando en **un contrato de formacion** con No Country.
  
- 🌱 Actualmente estoy aprendiendo **Astro, Typescript, Supabase y Tailwind**
+ 🌱 Actualmente estoy aprendiendo **Astro, Typescript, Supabase y Tailwind**.
 
  💬 Estoy abierto a **cualquier oferta laboral**.
 
- ⚡ Dato curioso **Amo rick y Morty**
+ ⚡ Dato curioso **Amo rick y Morty**.
  
  </div>
  
@@ -32,6 +32,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languajes-Frameworks-Herramientas ⚒️</h2>
+<p align="center">Mis skills</p>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,github" /><br>
