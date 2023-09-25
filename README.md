@@ -32,7 +32,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languajes-Frameworks-Herramientas ⚒️</h2>
-<p align="center">Mis skills</p>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,github" /><br>
