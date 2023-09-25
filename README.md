@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 Actualmente estoy trabajando en **un contrato de formacion** con No Country
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 Actualmente estoy aprendiendo **Astro, Typescript, Supabase y Tailwind**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Estoy abierto a **cualquier oferta laboral**.
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Dato curioso **Amo rick y Morty**
  
  </div>
  
