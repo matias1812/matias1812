@@ -7,9 +7,12 @@
 <h3 align="center">Soy un apasionado Front-end Developer.</h3>
 
 <br/>
-
+<div align="center">
 <div align="left">
  
+ <div align="right">
+  <img width=200 src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" target="_blanck" />
+ </div>
  🔭 Actualmente estoy trabajando en
  <br/>
   **un contrato de formacion** con No Country.
@@ -22,9 +25,8 @@
 
  ⚡ Dato curioso **Amo rick y Morty**.
  
-  <img width=200 src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" target="_blanck" />
-
  </div>
+</div>
 
  
 <div align="center"> 
