@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 Actualmente estoy trabajando en **un contrato de formacion** con No Country.
  
@@ -19,18 +19,24 @@
  ⚡ Dato curioso **Amo rick y Morty**.
  
  </div>
+ <div align="rigth">
+  <img src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" target="_blanck" />
+ </div>
+
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/matias-torres-developer-freelance/" target="_blank">
     <img src="ttps://skillicons.dev/icons?i=linkedin" target="_blank" />
+   </a>
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://micv-delta.vercel.app/" target="_blank">
-     <img src="ttps://skillicons.dev/icons?i=gmail" target="_blank" /> 
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://micv-delta.vercel.app/" target="_blank">
-     <img src="ttps://skillicons.dev/icons?i=discord" target="_blank" /> 
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-
 </div>
 
  <hr/>
