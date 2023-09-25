@@ -34,3 +34,24 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+name: Generate Snake
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
