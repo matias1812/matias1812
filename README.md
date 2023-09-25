@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
  
  🔭 Actualmente estoy trabajando en **un contrato de formacion**
