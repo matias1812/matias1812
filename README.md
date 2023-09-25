@@ -25,17 +25,14 @@
 
  
 <div align="center"> 
+  <a href="https://www.linkedin.com/in/matias-torres-developer-freelance/" target="_blank">
+    <img src="ttps://skillicons.dev/icons?i=linkedin" target="_blank" />
+   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://www.linkedin.com/in/matias-torres-developer-freelance/" target="_blank">
-    <img src="ttps://skillicons.dev/icons?i=linkedin" target="_blank" />
-   </a>ß
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
