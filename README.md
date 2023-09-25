@@ -61,4 +61,4 @@
 
 <br/>
 
-![Serpiente de Contribuciones](https://raw.githubusercontent.com/matias1812/matias1812/nueva-rama/github-contribution-grid-snake.svg)
+![Serpiente de Contribuciones](https://raw.githubusercontent.com/matias1812/matias1812/nueva-rama/github-contribution-grid-snake-black.svg)
