@@ -10,11 +10,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱Actualmente me desenvuelvo como front-end developer.
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 Como cumunicarce conmigo: <a>https://micv-delta.vercel.app/</a>
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Dato curisos: mi pc es mi vida
 
 <br>
 
