@@ -58,12 +58,12 @@
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
-    bg_color=#808080 width="325" height="255" />
+    bg_color=#808080 width="325" height="260" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
-<br/>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
