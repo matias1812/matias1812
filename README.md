@@ -64,4 +64,4 @@
 
 <br/>
 
-![Snake animation](https://github.com/matias1812)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
