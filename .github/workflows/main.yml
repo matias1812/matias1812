@@ -25,7 +25,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.mqtias1812 "GitHub Actions"
+          git config --global user.matias1812 "GitHub Actions"
           git config --global user.matias.torres@gmail.com "actions@github.com"
 
       - name: Commit and push changes
