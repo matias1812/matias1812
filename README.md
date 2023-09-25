@@ -7,7 +7,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="30" width="40"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300" width="400"/></p>
 
 - 🌱Actualmente me desenvuelvo como front-end developer.
 
@@ -24,7 +24,7 @@
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.instagram.com/matias_m4mbo/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="500" width="500" /></a>
+      alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
 <br>
