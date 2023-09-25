@@ -31,7 +31,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,github" /><br>
