@@ -29,7 +29,7 @@
     <img src="ttps://skillicons.dev/icons?i=linkedin" target="_blank" />
    </a>
   <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/discord-333333?style=for-the-badge&logo=discord&logoColor=red" />
+    <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
