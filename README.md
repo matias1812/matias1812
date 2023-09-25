@@ -1,11 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matias1812.matias1812" />
 
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+me+precento!+👋;+Soy+Matias+Torres!+👨🏽‍💻;" />
-</h1>
+</div>
 
-<h2  align="center">Soy un apasionado Front-end Developer.</h2>
+<div  align="center">    
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Soy+un+apasionado+Front-end+Developer+💻;" />
+</div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
