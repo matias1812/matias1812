@@ -6,7 +6,7 @@
 
 <h3 align="center">Soy un apasionado Front-end Developer.</h3>
 
-<br/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -36,7 +36,7 @@
  
 <h2 align="center">⚒️ Languajes-Frameworks-Herramientas ⚒️</h2>
 
-<br/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,vercel,github" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postman,postgresql,html,css,vscode,figma,git" />
