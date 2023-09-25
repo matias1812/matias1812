@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Matias Torres</b></h1>
 <!--  -->
 <p align="center">
-  <a href="[[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/matias1812)](https://www.linkedin.com/in/matias-torres-developer-freelance/)"><img src=""></a>
+  <a href="(https://www.linkedin.com/in/matias-torres-developer-freelance/)"><img src=""></a>
 </p>
 
 
