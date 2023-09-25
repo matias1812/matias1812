@@ -9,9 +9,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout the code
-        uses: actions/checkout@v2
-
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.3.0
       - name: Generate Snake
         uses: Platane/snk@master
         with:
