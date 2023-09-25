@@ -50,7 +50,7 @@
   <img width=415 src="https://streak-stats.demolab.com/?user=matias1812&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=393 src="https://github-readme-stats.vercel.app/api?username=matias1812&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br>
-  <img width=392 align="center" src="https://camo.githubusercontent.com/89df51f5fe6b3a41ce0ea65f3bc4b6bed982611c7ab6bdb3968fce2f230425ed/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d61746961733138313226686964653d48544d4c266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426626f726465725f7261646975733d31302673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35266578636c7564655f7265706f3d6769746875622d726561646d652d7374617473" alt="top langs" />
+  <img width=392 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias1812&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
