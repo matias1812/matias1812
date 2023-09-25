@@ -21,14 +21,14 @@
  </div>
  
 <div align="center"> 
-  <a href="matias.torres1812@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/matias-torres-developer-freelance/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://micv-delta.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,firebase,supabase,next,vite,astro" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,github" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postgresql,html,css,vscode,figma,git" />
 </div>
 
