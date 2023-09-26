@@ -9,7 +9,6 @@
 <div  align="center">    
 <img width=600px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Soy+un+apasionado+Front-end+Developer+💻;" />
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
