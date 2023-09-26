@@ -4,12 +4,7 @@
 
 <div align="center">
     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+me+precento!+👋;+Soy+Matias+Torres!+👨🏽‍💻;" />
-
-</div>
-<div  align="center">  
-
 ![Alt text](image.png)
-
 </div>
 
 <img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
