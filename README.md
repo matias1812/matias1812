@@ -37,9 +37,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2 align="center">⚒️ Languajes-Frameworks-Herramientas ⚒️</h2>
+<div  align="center">    
+<img width=300px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚒️+Languajes+Frameworks+Herramientas+⚒️;" />
+</div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,vercel,github" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postman,postgresql,html,css,vscode,figma,git" />
@@ -48,11 +49,8 @@
 <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div  align="center">    
-<img width=300px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Soy+un+apasionado+Front-end+Developer+💻;" />
+<img width=300px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚡️+Stast+⚡️;" />
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align=center>
   <img width=415 src="https://streak-stats.demolab.com/?user=matias1812&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
