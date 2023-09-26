@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+me+precento!+👋;+Soy+Matias+Torres!+👨🏽‍💻;" />
+    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I+introduce+myself!+👋;+I+am+Matias+Torres.!+👨🏽‍💻;" />
 </div>
 <div  align="center">  
 
@@ -14,13 +14,13 @@
 <img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
  
- 🔭 Actualmente estoy trabajando en **un contrato de formacion**  con No Country.
+ 🔭 I am currently working on **a training contract** with No Country.
  
- 🌱 Actualmente estoy aprendiendo **Astro, Typescript, Supabase y Tailwind**.
+ 🌱 I'm currently learning **Astro, Typescript, Supabase and Tailwind**.
 
- 💬 Estoy abierto a **cualquier oferta laboral**.
+ 💬 I am open to **any job offer**.
 
- ⚡ Dato curioso **Amo rick y Morty**.
+ 🥳 Fun fact **I love Rick and Morty**.
 
 </div>
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -37,7 +37,7 @@
 </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div  align="center">    
-<img width=500px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Lenguajes,+Frameworks+y+Herramientas;" />
+<img width=500px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Languages,+Frameworks+and+Herramientas;" />
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,vercel,github" /><br>
@@ -57,7 +57,7 @@
 </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gracias+por+visitar👨🏽‍💻!+;+Mandame+un+mensaje+a+mi+Linkedin👋!;Siempre+dispuesto+a+colaborar+😎">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting👨🏽‍💻!+;+Send+a+message+to+my+Linkedin👋!;Always+willing+to+collaborate😎">
 </div>
 
 ![Serpiente de Contribuciones](https://raw.githubusercontent.com/matias1812/matias1812/nueva-rama/github-contribution-grid-snake-dark.svg)
