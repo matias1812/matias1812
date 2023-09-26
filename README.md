@@ -38,8 +38,6 @@
 <div  align="center">    
 <img width=500px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Lenguajes,+Frameworks+y+Herramientas;" />
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,vercel,github" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postman,postgresql,html,css,vscode,figma,git" />
