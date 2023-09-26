@@ -58,7 +58,6 @@
   <img width=393 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias1812&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![Serpiente de Contribuciones](https://raw.githubusercontent.com/matias1812/matias1812/nueva-rama/github-contribution-grid-snake-dark.svg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -67,5 +66,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gracias+por+visitar👨🏽‍💻!+;+Mandame+un+mensaje+a+mi+Linkedin👋!;Siempre+dispuesto+a+colaborar+😎">
 </h3>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
