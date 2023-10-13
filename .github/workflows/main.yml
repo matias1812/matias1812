@@ -12,7 +12,7 @@ on:
 # Definición del trabajo que se ejecutará como parte del flujo de trabajo.
 jobs:
   generar-serpiente:
-    runs-on: mac # Usa el sistema operativo Ubuntu más reciente.
+    runs-on: macos # Usa el sistema operativo Ubuntu más reciente.
 
     # Pasos a seguir en el trabajo.
     steps:
