@@ -1,38 +1,26 @@
-# Definición de un flujo de trabajo para generar una serpiente (snake) basada en el gráfico de contribuciones de GitHub.
-# Este flujo de trabajo utiliza la acción Platane/snk@v3 para crear representaciones visuales de las contribuciones del usuario.
-
 name: Generar Serpiente de Contribuciones
 
-# El flujo de trabajo se activa cuando se realiza un push en cualquier rama del repositorio.
 on:
   push:
     branches:
-      - '*' # Activa el flujo de trabajo para cualquier rama del repositorio.
-
-# Definición del trabajo que se ejecutará como parte del flujo de trabajo.
+      - '*' 
 jobs:
   generar-serpiente:
-    runs-on: macos # Usa el sistema operativo Ubuntu más reciente.
+    runs-on: macos-latest 
 
-    # Pasos a seguir en el trabajo.
     steps:
-    # Paso 1: Clonar el repositorio para acceder a los archivos y recursos necesarios.
     - name: Clonar el repositorio
-      uses: actions/checkout@v2 # Utiliza la acción oficial de GitHub para clonar el repositorio.
+      uses: actions/checkout@v2 
 
-    # Paso 2: Generar la serpiente y otros archivos usando la acción Platane/snk@v3.
     - name: Generar Serpiente y Archivos de Contribuciones
-      uses: Platane/snk@v3 # Utiliza la acción Platane/snk en su versión 3.
+      uses: Platane/snk@v3 
       with:
-        # Nombre de usuario de GitHub del propietario del repositorio.
         github_user_name: ${{ github.repository_owner }}
 
-        # Lista de archivos a generar. Se especifican los nombres de los archivos y las opciones de configuración.
         outputs: |
           dist/github-snake.svg # Archivo SVG con la serpiente de contribuciones predeterminada.
           dist/github-snake-dark.svg?palette=github-dark # Archivo SVG con una paleta de colores oscura.
           dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9 # Archivo GIF con colores específicos para la serpiente y los puntos.
 
       env:
-        # Token de acceso de GitHub necesario para autenticar las solicitudes a la API de GitHub.
-        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKENGITHUB_TOKEN }} # Utiliza el token de acceso de GitHub almacenado en los secretos del repositorio.
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKENGITHUB_TOKEN }} 
