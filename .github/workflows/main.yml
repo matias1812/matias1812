@@ -23,4 +23,4 @@ jobs:
           dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9 # Archivo GIF con colores específicos para la serpiente y los puntos.
 
       env:
-        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKENGITHUB_TOKEN }} 
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN}} 
