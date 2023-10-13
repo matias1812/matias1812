@@ -6,7 +6,7 @@ on:
       - '*' 
 jobs:
   generar-serpiente:
-    runs-on: macos-latest 
+    runs-on: ubuntu-latest
 
     steps:
     - name: Clonar el repositorio
