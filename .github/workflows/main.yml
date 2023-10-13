@@ -1,33 +1,38 @@
-name: snake
+# Definición de un flujo de trabajo para generar una serpiente (snake) basada en el gráfico de contribuciones de GitHub.
+# Este flujo de trabajo utiliza la acción Platane/snk@v3 para crear representaciones visuales de las contribuciones del usuario.
 
+name: Generar Serpiente de Contribuciones
+
+# El flujo de trabajo se activa cuando se realiza un push en cualquier rama del repositorio.
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
+    branches:
+      - '*' # Activa el flujo de trabajo para cualquier rama del repositorio.
 
+# Definición del trabajo que se ejecutará como parte del flujo de trabajo.
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  generar-serpiente:
+    runs-on: ubuntu-latest # Usa el sistema operativo Ubuntu más reciente.
 
+    # Pasos a seguir en el trabajo.
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+    # Paso 1: Clonar el repositorio para acceder a los archivos y recursos necesarios.
+    - name: Clonar el repositorio
+      uses: actions/checkout@v2 # Utiliza la acción oficial de GitHub para clonar el repositorio.
+
+    # Paso 2: Generar la serpiente y otros archivos usando la acción Platane/snk@v3.
+    - name: Generar Serpiente y Archivos de Contribuciones
+      uses: Platane/snk@v3 # Utiliza la acción Platane/snk en su versión 3.
+      with:
+        # Nombre de usuario de GitHub del propietario del repositorio.
+        github_user_name: ${{ github.repository_owner }}
+
+        # Lista de archivos a generar. Se especifican los nombres de los archivos y las opciones de configuración.
+        outputs: |
+          dist/github-snake.svg # Archivo SVG con la serpiente de contribuciones predeterminada.
+          dist/github-snake-dark.svg?palette=github-dark # Archivo SVG con una paleta de colores oscura.
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9 # Archivo GIF con colores específicos para la serpiente y los puntos.
+
+      env:
+        # Token de acceso de GitHub necesario para autenticar las solicitudes a la API de GitHub.
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKENGITHUB_TOKEN }} # Utiliza el token de acceso de GitHub almacenado en los secretos del repositorio.
