@@ -40,7 +40,7 @@
 <img width=500px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Languages,+Frameworks+and+Herramientas;" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,firebase,supabase,next,vite,astro,vercel,github" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,python,react,firebase,supabase,next,vite,astro,vercel,github" /><br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postman,postgresql,html,css,vscode,figma,git" />
 </div>
 
