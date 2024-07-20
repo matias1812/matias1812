@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/matias-torres-developer-freelance/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://micv-delta.vercel.app/" target="_blank">
+  <a href="https://micv-matias-t.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
   <a href="https://discord.gg/7Bkqa8Px">
