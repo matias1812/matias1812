@@ -31,7 +31,7 @@
   <a href="https://micv-git-main-matias1812s-projects.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
-  <a href="https://discord.gg/7Bkqa8Px">
+  <a href="https://discord.gg/Vexer24j">
     <img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
