@@ -44,6 +44,13 @@
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postman,postgresql,html,css,vscode,figma,git" />
 </div>
 
+<div align="center">
+<img width=500px src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Mi+serpiente+se+come+mis+commits+%F0%9F%90%8D;" />
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/matias1812/matias1812/output/github-contribution-grid-snake.svg" alt="snake animation eating the github contribution graph" width="100%" />
+</div>
+
 <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div  align="center">    
