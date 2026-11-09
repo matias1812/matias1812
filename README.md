@@ -14,7 +14,9 @@
 <img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
  
- 🔭 I am currently working on **a pasante contract** with Globant.
+ 🚀 Founder & Developer of **[Vyneural](https://www.vyneural.cl)**.
+
+🔭 I am currently working on **a pasante contract** with Globant.
  
  🌱 I'm currently learning **Astro, Typescript, Supabase and Tailwind**.
 
